@@ -6,8 +6,6 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 ## `Table of Contents`
-- [What is ISO 21434](#)
-- [Why ISO 21434](#)
-- [What is the structure of ISO/SAE 21434:2021?](#)
+
 
 ## `What is ISO 21434?` 
