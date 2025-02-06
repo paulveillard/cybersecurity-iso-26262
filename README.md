@@ -63,7 +63,7 @@ Fault Tolerance
 > Availability + Reliability + Safety + Security + Maintainability
 
 
-### 1.4 - Evolution of Functional Safety
+### `1.4 - Evolution of Functional Safety`
 
 4 specific steps in the evolution of functional safety:
 
@@ -78,13 +78,14 @@ Fault Tolerance
 
 ### `1.5 - Safety Failures and their causes` 
 Failures in a functional safety system can be broadly classified into two categories:
-Systematic and Random failures
-• Systematic Failures
+
+#### Systematic and Random failures
+
+ ##### Systematic Failures
 − Result from a failure in design or manufacturing
 − Often a result of failure to follow best practices
-− Occurrence of systematic failures can be reduced through continual and rigorous process
-improvement and robust analysis of any new technology
-• Random Failures
+− Occurrence of systematic failures can be reduced through continual and rigorous process improvement and robust analysis of any new technology
+
+##### Random Failures
 − Result from random defects or soft errors inherent to process or usage condition
-− Rate of random faults cannot generally be reduced; focus must be on the detection and handling
-of random faults to prevent application failure
+− Rate of random faults cannot generally be reduced; focus must be on the detection and handling of random faults to prevent application failure
