@@ -96,6 +96,18 @@ environment.
 </p>
 
 
+### 2.2 Automotive Safety Integrity Level
+
+The Automotive Safety Integrity Level (ASIL) is a classification system used in ISO 26262. Each component of an automotive system is assigned an ASIL based on the level of risk should the component fail, and this determines the verification activities required to demonstrate functional safety for the component. A risk can be assigned one of five ASIL ratings:
+
+- A (lowest integrity) to D (highest integrity), which define the level of risk in the event of failure. Failure at ASIL D could be potential for loss of life and require stricter compliance requirements compared to ASIL A.
+- QM (Quality Management), which assumes that the risk will be mitigated sufficiently by Quality Assurance activities.
+
+The ASIL rating is calculated based on the following factors (see Table 1):
+
+- **Severity** of injuries afflicted to the passengers
+- **Probability** of exposure
+- **Controllability** of the hazard (probability that the passenger will avoid the harm)
 
 <p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-8.png?raw=true" alt="Sublime's custom image"/>
