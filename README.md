@@ -8,4 +8,4 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
 
 
-## `What is ISO 21434?` 
+## `What is Functional Safety?
