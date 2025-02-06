@@ -6,10 +6,11 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 ## `Table of Contents`
-   - [Functional Safety Introduction](#)
+   - [1 - Functional Safety Introduction](#)
       - [What is Functional Safety](#)
 
 
+## Functional Safety Introduction
 ### `What is Functional Safety?`
 
 Safety can be defined by referring to two existing safety standards:
