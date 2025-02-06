@@ -76,7 +76,7 @@ Fault Tolerance
 - Fail-operational: sometimes also referred to as fault-tolerant, a failure in one component does not stop the whole system from working correctly, the system reconfigures itself to compensate for the fault.
 - High-dependability: this is advanced failure prediction.
 
-Safety Failures and their causes
+### `1.5 - Safety Failures and their causes` 
 Failures in a functional safety system can be broadly classified into two categories:
 Systematic and Random failures
 • Systematic Failures
