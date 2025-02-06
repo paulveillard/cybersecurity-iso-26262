@@ -65,6 +65,7 @@ environment.
 
 ### `1.5 - Safety Lifecycle`
 
+### `1.6 - ISO 26262 Key Differences from IEC 61508`
 
 
 
