@@ -77,9 +77,7 @@ Fault Tolerance
 - High-dependability: this is advanced failure prediction.
 
 ### `1.5 - Safety Failures and their causes` 
-Failures in a functional safety system can be broadly classified into two categories:
-
-#### Systematic and Random failures
+Failures in a functional safety system can be broadly classified into two categories: Systematic and Random failures
 
  ##### Systematic Failures
 − Result from a failure in design or manufacturing
