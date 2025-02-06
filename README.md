@@ -67,7 +67,13 @@ environment.
 
 ### `1.6 - ISO 26262 Key Differences from IEC 61508`
 
-
+• ISO 26262 aligns with auto industry use cases and definition of acceptable risk
+• IEC 61508 concept of safety function is replaced with ISO 26262 safety goals.
+   − Safety function concept was based on the idea of defining a system under control and then “bolting-on” risk reduction measures
+   − Safety goal concept requires that risk reduction be part of the initial control system design
+• Typical IEC 61508 systems are installed and then validated in place. ISO 26262 systems must be validated before release to market.
+• ISO 26262 standard clearly defines work products for each requirement. This makes determination of compliance easier but limits flexibility of development system definition.
+• ISO 26262 has hazard and risk analysis, failure rates and metrics adapted for Automotive use cases.
 
 
 
