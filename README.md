@@ -68,7 +68,7 @@ Fault Tolerance
 4 specific steps in the evolution of functional safety:
 
 <p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-iso26262/blob/main/img/evolution_functional.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/evolution_functional.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 - Fail-safe: the system goes into safe mode when a failure occurs.
