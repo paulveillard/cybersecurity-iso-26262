@@ -19,6 +19,16 @@ ISO 26262 is a standard for implementing functional safety measures for electric
   <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-1.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
+The **ISO 26262 series of standards** is the adaptation of **IEC 61508 series of standards** to address the sector specific needs of electrical and/or electronic (E/E) systems within road vehicles. 
+This adaptation applies to all activities during the safety lifecycle of safety-related systems comprised of electrical, electronic and software components.
+> Safety is one of the key issues in the development of road vehicles. Development and integration of automotive functionalities strengthen the need for functional safety and the need to provide evidence that functional safety objectives are satisfied. With the trend of increasing technological complexity, software content and mechatronic implementation, there are increasing risks from systematic failures and random hardware failures, these being considered within the scope of functional safety. 
+
+- ISO 26262 series of standards includes guidance to mitigate these risks by providing appropriate requirements and processes. To achieve functional safety, the ISO 26262 series of standards:
+   - a) provides a reference for the automotive safety lifecycle and supports the tailoring of the activities to be performed during the lifecycle phases, i.e., development, production, operation, service and decommissioning;
+   - b) provides an automotive-specific risk-based approach to determine integrity levels [Automotive Safety Integrity Levels (ASILs)]; iTeh STANDARD PREVIEW (standards.iteh.ai)
+   -  c) uses ASILs to specify which of the requirements of ISO 26262 are applicable to avoid unreasonable residual risk;
+   -  d) provides requirements for functional safety management, design, implementation, verification, validation and confirmation measures; and ISO 26262-1:2018 htps:/standards.iteh.ai/catalog/standards/sist/c1a72b85-fd93-4952-bc1e38aedd5d0742/iso-26262-1-2018
+   -  e) provides requirements for relations between customers and suppliers.
 
 ### `1.1 - Discover ISO 26262`
 Ensure your automotive software meets the highest safety standards by mastering ISO 26262 verification requirements and avoid critical, costly recalls by guaranteeing road-ready reliability.
