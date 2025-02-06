@@ -21,25 +21,25 @@ environment.
 > Functional Safety is part of the overall safety that depends on a system or equipment
 operating correctly in response to its inputs.
 
-### Functional Safety Basic Concepts
+### `Functional Safety Basic Concepts`
 - All systems will have some inherent, quantifiable failure rate. It is not possible to develop a system with zero failure rate.
 - For each application, there is some tolerable failure rate which does not lead to unacceptable risk.
 - Acceptable failure rates vary per application, based on the potential for direct or indirect physical injury in the event of system malfunction.
 - The hazards and risks of applications can be analyzed and assigned categories based on the level of acceptable risk. These categories are known as Safety Integrity Levels, or SILs.
 
-### Terms & Definitions
+### `Terms & Definitions`
 
 #### Fault
-- Operational issue in a system which may lead to a failure
+> Operational issue in a system which may lead to a failure
 
 #### Failure
-- Result of a fault which leads to an inability to execute safety critical functionality
+> Result of a fault which leads to an inability to execute safety critical functionality
 
 Fault Tolerance
-− Ability to continue safe operation after a fault
+> Ability to continue safe operation after a fault
 
 #### Fail Safe System:
-− System where a fault which may lead to failures is detected and the system is put into a safe state such that faults may not propagate to other systems
+> System where a fault which may lead to failures is detected and the system is put into a safe state such that faults may not propagate to other systems
 
 #### Fail Functional/Operational System
 > System where a fault which may lead to failures is detected and the system can continue operation without loss of safety function
