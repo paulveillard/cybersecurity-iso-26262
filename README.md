@@ -18,3 +18,9 @@ An ongoing & curated collection of awesome software best practices and technique
 environment.
 > Functional Safety is part of the overall safety that depends on a system or equipment
 operating correctly in response to its inputs.
+
+### Functional Safety Basic Concepts
+• All systems will have some inherent, quantifiable failure rate. It is not possible to develop a system with zero failure rate.
+• For each application, there is some tolerable failure rate which does not lead to unacceptable risk.
+• Acceptable failure rates vary per application, based on the potential for direct or indirect physical injury in the event of system malfunction.
+• The hazards and risks of applications can be analyzed and assigned categories based on the level of acceptable risk. These categories are known as Safety Integrity Levels, or SILs.
