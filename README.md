@@ -21,7 +21,13 @@ ISO 26262 is a standard for implementing functional safety measures for electric
 
 
 ### `1.1 - Discover ISO 26262`
+Ensure your automotive software meets the highest safety standards by mastering ISO 26262 verification requirements and avoid critical, costly recalls by guaranteeing road-ready reliability.
 
+- ISO 26262 is divided into 12 parts.
+
+  <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-2.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 
 ### `1.2 - What is Functional Safety?`
