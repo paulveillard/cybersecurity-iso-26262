@@ -6,6 +6,8 @@ An ongoing & curated collection of awesome software best practices and technique
 
 
 ## `Table of Contents`
+   - [Functional Safety Introduction](#)
+      - [What is Functional Safety](#)
 
 
 ## `What is Functional Safety?`
