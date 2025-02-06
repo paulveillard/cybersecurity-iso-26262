@@ -59,6 +59,12 @@ environment.
 > Absence of unacceptable risk due to hazards caused by mal-functional behavior of electrical and/or electronic systems and the interactions of these systems.
 
 
+### `1.3 - ISO 26262 Reading recommendation`
+
+### `1.4 - Scope of ISO 26262`
+
+### `1.5 - Safety Lifecycle`
+
 
 
 
