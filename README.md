@@ -14,7 +14,10 @@ An ongoing & curated collection of awesome software best practices and technique
 
 Safety can be defined by referring to two existing safety standards:
 - **IEC 61508 (International Electrotechnical Commission (IEC), a functional safety standard for the general electronics market developed by the IEC.**
-
+  - IEC 61508 Definition:
+> Safety is the freedom from unacceptable risk of physical injury or of damage to the health of people, either directly, or indirectly as a result of damage to property or to the
+environment.
+> Functional Safety is part of the overall safety that depends on a system or equipment operating correctly in response to its inputs.
 
 
 - **ISO 26262 (IEC), a functional safety standard for automobiles from ISO. It has rapidly gaining acceptance as the guideline for the automotive engineer since its release.***
