@@ -21,7 +21,11 @@ ISO 26262 is a standard for implementing functional safety measures for electric
 
 The **ISO 26262 series of standards** is the adaptation of **IEC 61508 series of standards** to address the sector specific needs of electrical and/or electronic (E/E) systems within road vehicles. 
 This adaptation applies to all activities during the safety lifecycle of safety-related systems comprised of electrical, electronic and software components.
-> Safety is one of the key issues in the development of road vehicles. Development and integration of automotive functionalities strengthen the need for functional safety and the need to provide evidence that functional safety objectives are satisfied. With the trend of increasing technological complexity, software content and mechatronic implementation, there are increasing risks from systematic failures and random hardware failures, these being considered within the scope of functional safety. 
+> Safety is one of the key issues in the development of road vehicles. Development and integration of automotive functionalities strengthen the need for functional safety and the need to provide evidence that functional safety objectives are satisfied. With the trend of increasing technological complexity, software content and mechatronic implementation, there are increasing risks from systematic failures and random hardware failures, these being considered within the scope of functional safety.
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-3.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 - ISO 26262 series of standards includes guidance to mitigate these risks by providing appropriate requirements and processes. To achieve functional safety, the ISO 26262 series of standards:
    - a) provides a reference for the automotive safety lifecycle and supports the tailoring of the activities to be performed during the lifecycle phases, i.e., development, production, operation, service and decommissioning;
