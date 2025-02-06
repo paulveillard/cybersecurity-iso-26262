@@ -63,9 +63,19 @@ environment.
 
 ### `1.3 - ISO 26262 Reading recommendation`
 
+  <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-4.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 ### `1.4 - Scope of ISO 26262`
+  <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-5.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ### `1.5 - Safety Lifecycle`
+  <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-6.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ### `1.6 - ISO 26262 Key Differences from IEC 61508`
 
