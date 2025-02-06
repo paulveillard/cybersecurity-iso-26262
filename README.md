@@ -10,8 +10,8 @@ An ongoing & curated collection of awesome software best practices and technique
       - [What is Functional Safety](#)
 
 
-## Functional Safety Introduction
-### `What is Functional Safety?`
+## 1 - Functional Safety Introduction
+### `1.1 - What is Functional Safety?`
 
 Safety can be defined by referring to two existing safety standards:
 - **IEC 61508 (International Electrotechnical Commission (IEC), a functional safety standard for the general electronics market developed by the IEC.**
