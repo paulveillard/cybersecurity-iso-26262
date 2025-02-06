@@ -55,3 +55,13 @@ Fault Tolerance
 
 #### Dependability
 > Availability + Reliability + Safety + Security + Maintainability
+
+
+### Evolution of Functional Safety
+
+4 specific steps in the evolution of functional safety:
+
+- Fail-safe: the system goes into safe mode when a failure occurs.
+- Fail-silent: the system recognizes that it is receiving the wrong information due to a fault, so the ongoing operation moves to degraded mode.
+- Fail-operational: sometimes also referred to as fault-tolerant, a failure in one component does not stop the whole system from working correctly, the system reconfigures itself to compensate for the fault.
+- High-dependability: this is advanced failure prediction.
