@@ -91,7 +91,21 @@ environment.
      
 ### 2.1 - Determining ISO 26262 ASIL Level
 
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-7.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
+
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-8.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-9.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 ## `License`
 MIT License & [cc](https://creativecommons.org/licenses/by/4.0/) license
