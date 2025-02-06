@@ -28,9 +28,11 @@ operating correctly in response to its inputs.
 - The hazards and risks of applications can be analyzed and assigned categories based on the level of acceptable risk. These categories are known as Safety Integrity Levels, or SILs.
 
 ### Terms & Definitions
-• Fault
+
+#### Fault
 − Operational issue in a system which may lead to a failure
-• Failure
+
+#### Failure
 − Result of a fault which leads to an inability to execute safety critical functionality
 • Fault Tolerance
 − Ability to continue safe operation after a fault
