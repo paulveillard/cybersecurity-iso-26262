@@ -106,7 +106,7 @@ The Automotive Safety Integrity Level (ASIL) is a classification system used in 
 The ASIL rating is calculated based on the following factors (see Table 1):
 
 - **Severity** of injuries afflicted to the passengers
-- **Probability** of exposure
+- **Probability** of **exposure**
 - **Controllability** of the hazard (probability that the passenger will avoid the harm)
 
 <p align="center">
