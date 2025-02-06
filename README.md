@@ -26,11 +26,6 @@ environment.
 
 
 
-- IEC 61508 Definition:
-> Safety is the freedom from unacceptable risk of physical injury or of damage to the health of people, either directly, or indirectly as a result of damage to property or to the
-environment.
-> Functional Safety is part of the overall safety that depends on a system or equipment operating correctly in response to its inputs.
-
 ### `Functional Safety Basic Concepts`
 - All systems will have some inherent, quantifiable failure rate. It is not possible to develop a system with zero failure rate.
 - For each application, there is some tolerable failure rate which does not lead to unacceptable risk.
