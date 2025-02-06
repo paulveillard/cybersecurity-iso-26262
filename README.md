@@ -63,7 +63,7 @@ Fault Tolerance
 > Availability + Reliability + Safety + Security + Maintainability
 
 
-### Evolution of Functional Safety
+### 1.4 - Evolution of Functional Safety
 
 4 specific steps in the evolution of functional safety:
 
