@@ -33,7 +33,7 @@ environment.
 - Acceptable failure rates vary per application, based on the potential for direct or indirect physical injury in the event of system malfunction.
 - The hazards and risks of applications can be analyzed and assigned categories based on the level of acceptable risk. These categories are known as Safety Integrity Levels, or SILs.
 
-### `Terms & Definitions`
+### `1.3 - Terms & Definitions`
 
 #### Fault
 > Operational issue in a system which may lead to a failure
