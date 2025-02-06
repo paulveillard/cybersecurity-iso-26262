@@ -110,6 +110,10 @@ The ASIL rating is calculated based on the following factors (see Table 1):
 - **Controllability** of the hazard (probability that the passenger will avoid the harm)
 
 <p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-8.1.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+<p align="center">
   <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-8.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
