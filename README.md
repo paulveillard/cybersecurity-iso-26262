@@ -30,24 +30,28 @@ operating correctly in response to its inputs.
 ### Terms & Definitions
 
 #### Fault
-− Operational issue in a system which may lead to a failure
+- Operational issue in a system which may lead to a failure
 
 #### Failure
-− Result of a fault which leads to an inability to execute safety critical functionality
-• Fault Tolerance
+- Result of a fault which leads to an inability to execute safety critical functionality
+
+Fault Tolerance
 − Ability to continue safe operation after a fault
-• Fail Safe System:
-− System where a fault which may lead to failures is detected and the system is put into a safe state such that faults may not
-propagate to other systems
-• Fail Functional/Operational System
-− System where a fault which may lead to failures is detected and the system can continue operation without loss of safety
-function
-• Reliability
-− Ability to execute operations in system without failure (generally independent of consideration for a safety function)
-• Availability
-− Amount of time in which a safety function is available divided by total system operation time. Systems with high reliability
-and fail functional systems tend to have higher availability than fail safe systems
-• Security
-− Ability to detect, resist, or prevent tampering with product functionality
-• Dependability
-− Availability + Reliability + Safety + Security + Maintainability
+
+#### Fail Safe System:
+− System where a fault which may lead to failures is detected and the system is put into a safe state such that faults may not propagate to other systems
+
+#### Fail Functional/Operational System
+> System where a fault which may lead to failures is detected and the system can continue operation without loss of safety function
+
+#### Reliability
+> Ability to execute operations in system without failure (generally independent of consideration for a safety function)
+
+#### Availability
+> Amount of time in which a safety function is available divided by total system operation time. Systems with high reliability and fail functional systems tend to have higher availability than fail safe systems
+
+#### Security
+> Ability to detect, resist, or prevent tampering with product functionality
+
+#### Dependability
+> Availability + Reliability + Safety + Security + Maintainability
