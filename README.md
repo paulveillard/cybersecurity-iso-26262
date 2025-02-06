@@ -7,13 +7,20 @@ An ongoing & curated collection of awesome software best practices and technique
 
 ## `Table of Contents`
    - [1 - Introduction to ISO 26262](#)
-      - [Discover ISO 26262](#)
-      - [What is Functional Safety](#)
+      - [1.1 - Discover ISO 26262](#)
+      - [1.2 - What is Functional Safety](#)
 
 
 ## 1 - Introduction to ISO 26262
 ISO 26262 is a standard for implementing functional safety measures for electric systems in an automotive vehicle. The first version of ISO 26262 was released in 2011. This version only covered functional safety for passenger cars. 
 > A later edition of the standard, released in 2018, extended the scope to include all road vehicles except for mopeds.
+
+<p align="center">
+  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/iso26262-1.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
+
+### `1.1 - Discover ISO 26262`
 
 
 
@@ -33,12 +40,8 @@ environment.
 
 
 
-### `1.2 - Functional Safety Basic Concepts`
 
 
-<p align="center">
-  <img src="https://github.com/paulveillard/cybersecurity-iso-26262/blob/main/img/evolution_functional.png?raw=true" alt="Sublime's custom image"/>
-</p>
 
 
 
