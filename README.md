@@ -9,6 +9,8 @@ An ongoing & curated collection of awesome software best practices and technique
    - [1 - Introduction to ISO 26262](#)
       - [1.1 - Discover ISO 26262](#)
       - [1.2 - What is Functional Safety](#)
+   - [2 - ISO 26262 Safety Integrity Levels](#)
+     - [2.1 - Determining ISO 26262 ASIL Leve](#)
 
 
 ## 1 - Introduction to ISO 26262
@@ -74,6 +76,8 @@ environment.
 • Typical IEC 61508 systems are installed and then validated in place. ISO 26262 systems must be validated before release to market.
 • ISO 26262 standard clearly defines work products for each requirement. This makes determination of compliance easier but limits flexibility of development system definition.
 • ISO 26262 has hazard and risk analysis, failure rates and metrics adapted for Automotive use cases.
+
+
 
 
 
