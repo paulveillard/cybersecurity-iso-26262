@@ -13,7 +13,11 @@ An ongoing & curated collection of awesome software best practices and technique
 ### `What is Functional Safety?`
 
 Safety can be defined by referring to two existing safety standards:
-- **IEC 61508 (International Electrotechnical Commission (IEC), a functional safety standard for the general electronics market developed by the IEC.** 
+- **IEC 61508 (International Electrotechnical Commission (IEC), a functional safety standard for the general electronics market developed by the IEC.**
+
+  - ISO 26262 Definition:
+> Absence of unacceptable risk due to hazards caused by mal-functional behavior of electrical and/or electronic systems and the interactions of these systems
+
 - **ISO 26262 (IEC), a functional safety standard for automobiles from ISO. It has rapidly gaining acceptance as the guideline for the automotive engineer since its release.*** 
 
 - ISO 26262 Definition:
