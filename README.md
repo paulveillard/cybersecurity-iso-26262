@@ -8,12 +8,11 @@ An ongoing & curated collection of awesome software best practices and technique
 ## `Table of Contents`
 
 
-## `What is Functional Safety?
+## `What is Functional Safety?`
 
-What is functional Safety?
-• ISO 26262 Definition:
-−Absence of unacceptable risk due to hazards caused by mal-functional behavior of
-electrical and/or electronic systems and the interactions of these systems
+- ISO 26262 Definition:
+> Absence of unacceptable risk due to hazards caused by mal-functional behavior of electrical and/or electronic systems and the interactions of these systems
+
 • IEC 61508 Definition:
 −Safety is the freedom from unacceptable risk of physical injury or of damage to the health
 of people, either directly, or indirectly as a result of damage to property or to the
